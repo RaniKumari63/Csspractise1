@@ -1,0 +1,36 @@
+div.outer{
+
+    height:200px;
+    width:70px;
+    background-color:white;
+    border:2px black solid;
+   
+}
+
+div.red{
+margin-top:10px ;
+    height:50px;
+    width:50px;
+    background-color:rgb(219, 20, 20);
+    border:2px black solid;
+    border-radius: 50%;
+   margin-left: 10px;
+}
+div.green{
+    margin-top:10px ;
+    height:50px;
+    width:50px;
+    background-color:rgb(11, 191, 23);
+    border:2px black solid;
+    border-radius:50%;
+    margin-left: 10px;
+}
+div.orange{
+    margin-top:10px ;
+    height:50px;
+    width:50px;
+    background-color:rgb(224, 137, 15);
+    border:2px black solid;
+    border-radius: 50%;
+    margin-left: 10px;
+}

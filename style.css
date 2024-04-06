@@ -1,0 +1,42 @@
+
+*
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color:pink;
+    text-align: start;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: normal;
+    line-height: 50px;
+    text-transform: capitalize;
+}
+h2{
+    font-weight:bold
+}
+h3{
+    font-weight:lighter;
+
+}
+h4{
+    font-weight:bolder;
+}
+p{
+  color:yellow ; 
+  text-align: start;
+}
+button {
+    color:brown;
+}
+body{
+    background-color: blueviolet;
+}
+#outer
+{
+font-size: 25px;
+}
+#inner
+{
+    font-size:10px;
+}
